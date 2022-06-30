@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Oko  ( @Okomiya ), amateur French developer Python & Java, mostly self-taught. I'm 25 years old.
+- 👋 Hi, I’m Oko  ( @Okomiya ), amateur French developer Python & Java, mostly self-taught. I'm 26 years old.
 - 🌿 I’m interested in code, that fascinates me
 - ⏳ I’m currently learning Java langage.
 
